@@ -1,5 +1,5 @@
 # CFG-project
-Coding For Girls Project
+Code First Girls Project
 
 About:
 
